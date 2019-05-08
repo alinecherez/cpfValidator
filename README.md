@@ -15,7 +15,7 @@ $  npm install cpfvalidator-acmc
 ```node
 
 > const isValid = require('cpfvalidator-acmc');
-> isValid.cpfValidator('86843572057'))
+> isValid.cpfValidator('86843572057')
 > // returns "true"
 
 ```
